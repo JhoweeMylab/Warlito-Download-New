@@ -1,0 +1,19 @@
+ColorGame
+MinesLand
+Tongits Go
+BigoLive
+<split>
+com.playjoygame.colorgame
+com.playjoygame.mines
+com.tongitsgo.play
+sg.bigo.live
+<split>
+https://colorgameland1.page.link/MlScriptCreator
+https://colorgameland1.page.link/MlScriptCreator
+https://colorgameland1.page.link/MlScriptCreator
+https://colorgameland1.page.link/MlScriptCreator
+<split>
+https://colorgameland.com/img/teenPatti.png
+https://github.com/J2PTV/Saiyan/blob/main/com playjoygame.mines_1.png?raw=true
+https://github.com/J2PTV/Saiyan/blob/main/tongits.png?raw=true
+https://github.com/J2PTV/Saiyan/blob/main/images.png?raw=true
