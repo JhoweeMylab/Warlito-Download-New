@@ -14,6 +14,6 @@ https://colorgameland1.page.link/MlScriptCreator
 https://colorgameland1.page.link/MlScriptCreator
 <split>
 https://colorgameland.com/img/teenPatti.png
-https://github.com/J2PTV/Saiyan/blob/main/com playjoygame.mines_1.png?raw=true
+https://raw.githubusercontent.com/J2PTV/Saiyan/main/com.playjoygame.mines_1.png
 https://github.com/J2PTV/Saiyan/blob/main/tongits.png?raw=true
 https://github.com/J2PTV/Saiyan/blob/main/images.png?raw=true
