@@ -1,16 +1,16 @@
 ColorGame
-MinesLand
 Tongits Go
 BigoLive
+Eggy
 <split>
 com.playjoygame.colorgame
-com.playjoygame.mines
 com.tongitsgo.play
 sg.bigo.live
+com.netease.partyglobal
 <split>
-https://colorgameland1.page.link/MlScriptCreator
-https://colorgameland1.page.link/MlScriptCreator
-https://colorgameland1.page.link/MlScriptCreator
+https://colorgameland1.page.link/WarlitoGamingFB
+https://playjoygame5.page.link/Scyte
+https://playjoygame5.page.link/Scyte
 https://colorgameland1.page.link/MlScriptCreator
 <split>
 https://colorgameland.com/img/teenPatti.png
