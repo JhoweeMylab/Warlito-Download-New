@@ -1,15 +1,15 @@
 ColorGame
-Tongits Go
+MinesLand
 BigoLive
 Eggy
 <split>
 com.playjoygame.colorgame
-com.tongitsgo.play
+com.playjoygame.mines
 sg.bigo.live
 com.netease.partyglobal
 <split>
 https://colorgameland1.page.link/WarlitoGamingFB
-https://playjoygame5.page.link/Scyte
+https://mines.page.link/WarlitoGamingL
 https://tt.hzmk.site/?k=Romica
 https://wwzios.onelink.me/c8ty/241wfscu
 <split>
